@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Hunt_for_blood",
+			"Path": "C:\\Users\\LINO A\\Desktop\\Hunt_for_blood\\Source\\Hunt_for_blood.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Hunt_for_bloodEditor",
+			"Path": "C:\\Users\\LINO A\\Desktop\\Hunt_for_blood\\Source\\Hunt_for_bloodEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Hunt_for_blood.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\LINO A\Desktop\Hunt_for_blood\Intermediate\Build\Win64\x64\Hunt_for_bloodEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\LINO A\Desktop\Hunt_for_blood\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hunt_for_blood\Hunt_for_blood.init.gen.cpp.obj"
+"C:\Users\LINO A\Desktop\Hunt_for_blood\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hunt_for_blood\Hunt_for_bloodCharacter.gen.cpp.obj"
+"C:\Users\LINO A\Desktop\Hunt_for_blood\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hunt_for_blood\Hunt_for_bloodGameMode.gen.cpp.obj"
+"C:\Users\LINO A\Desktop\Hunt_for_blood\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hunt_for_blood\Hunt_for_blood.cpp.obj"
+"C:\Users\LINO A\Desktop\Hunt_for_blood\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hunt_for_blood\Hunt_for_bloodCharacter.cpp.obj"
+"C:\Users\LINO A\Desktop\Hunt_for_blood\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hunt_for_blood\Hunt_for_bloodGameMode.cpp.obj"
+"C:\Users\LINO A\Desktop\Hunt_for_blood\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hunt_for_blood\Default.rc2.res"
+/OUT:"C:\Users\LINO A\Desktop\Hunt_for_blood\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hunt_for_blood\UnrealEditor-Hunt_for_blood.lib"

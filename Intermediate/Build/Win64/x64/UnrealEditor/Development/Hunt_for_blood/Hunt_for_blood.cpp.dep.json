@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lino a\\desktop\\hunt_for_blood\\source\\hunt_for_blood\\hunt_for_blood.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lino a\\desktop\\hunt_for_blood\\intermediate\\build\\win64\\x64\\hunt_for_bloodeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\lino a\\desktop\\hunt_for_blood\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hunt_for_blood\\definitions.hunt_for_blood.h",
+            "c:\\users\\lino a\\desktop\\hunt_for_blood\\source\\hunt_for_blood\\hunt_for_blood.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Animation/StandToRoll_UE.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Animation/SK_Mannequin_Sequence.uasset"
+			]
+		}
+	]
+}
