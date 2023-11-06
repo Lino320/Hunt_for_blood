@@ -5,15 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Animation/StandToRoll_UE.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Animation/SK_Mannequin_Sequence.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Enemy/BP_Spawner.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/YMVPZZJUBHX9W6AIU5KUN8.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Enemy/BP_EnemySpawn.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7M/419B4XOH4S94PJTV3XRVYB.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/G4/6IRC3SA7YYM2132KFV5765.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI/Walk.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI/Ai_anim_BP.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI/Punching_AI.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI/Punching.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI/Punching.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI/Punching_AI.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/Animation/StandToRoll_UE.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/YMVPZZJUBHX9W6AIU5KUN8.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Hunt_For_Blood.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/Enemy/BP_Spawner.uasset",
-				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset",
-				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
-				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Animation/StandToRoll_UE.uasset",
-				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Animation/SK_Mannequin_Sequence.uasset"
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
 			]
 		}
 	]
