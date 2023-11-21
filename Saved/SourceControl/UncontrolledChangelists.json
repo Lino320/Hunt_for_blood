@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/Enemy/BP_EnemySpawn.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/Animation/StandToRoll_UE.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MJ/YMVPZZJUBHX9W6AIU5KUN8.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
