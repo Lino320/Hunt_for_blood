@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/Enemy/BP_EnemySpawn.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/Enemy/FlyingBack.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/Enemy/Enemy_Health.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KW/6LLGCU3IQQB95RA62P9RBX.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/Enemy/Flying_Back_Death.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Maps/Level_Tester.umap",
 				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Animation/StandToRoll_UE.uasset",
 				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Animation/SK_Mannequin_Sequence.uasset",
@@ -99,12 +106,6 @@
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/CI/KST702KSCRZWYV56G3VJBD.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HE/U35NZS5A9W1UXP1E3FF2GW.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
-				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/Enemy/BP_EnemySpawn.uasset",
-				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/Enemy/FlyingBack.uasset",
-				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/Enemy/Enemy_Health.uasset",
-				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KW/6LLGCU3IQQB95RA62P9RBX.uasset",
-				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/Enemy/Flying_Back_Death.uasset",
 				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI/Punching_AI.uasset",
 				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI/Punching.uasset"
 			]
