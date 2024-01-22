@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Maps/Main.umap"
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Maps/Main.umap",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/UI_equipment/Equipment_UI.uasset"
 			]
 		}
 	]
