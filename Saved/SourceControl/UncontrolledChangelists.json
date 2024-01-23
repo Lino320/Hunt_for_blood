@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/Boss/BOSS_TRY_BP.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/BP_SpeedEnemySpawn.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/BCP_AttackSystem.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/ThirdPerson/Maps/Boss_Tester.umap",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/BP_RangedEnemySpawn.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/Boss/Animation-Equipment/Proyectile.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/Proyectile.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/Proyectile_Multiple.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/ThirdPerson/Maps/Assets/Home_16_M01.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/Boss/AtributesForEntities_BP.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/Enemy/BP_EnemySpawn.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Maps/Main.umap"
 			]
 		}
