@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Maps/Main.umap",
-				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/UI_equipment/Equipment_UI.uasset"
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/UI_equipment/Equipment_UI.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Input/Actions/IA_Equipment_menu.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/BP_sistema_Equipamiento.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/UI_equipment/Slots_Widget.uasset"
 			]
 		}
 	]
