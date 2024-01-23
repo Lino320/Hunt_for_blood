@@ -1,0 +1,17 @@
+[0123/020239.216:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0123/020239.216:ERROR:entry_impl.cc(1075)] No file for c10303f2
+[0123/020239.216:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020239.216:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020239.216:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020239.216:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020239.216:ERROR:entry_impl.cc(1075)] No file for c10303f4
+[0123/020239.216:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020239.216:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020239.216:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020239.216:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020239.217:ERROR:entry_impl.cc(1075)] No file for c10303f6
+[0123/020239.217:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020239.217:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020239.219:WARNING:storage_block-inl.h(146)] Failed data load.
+[0123/020241.464:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0123/020437.410:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
