@@ -2,4 +2,5 @@
 * text=auto
 git lfs track "*.psd"
 git lfs track "*.jpg"
+git lfs track "*.fbx"
 git add .gitattributes
