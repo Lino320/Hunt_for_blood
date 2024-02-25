@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/Objects/PhysicsOBJ.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/Objects/Interruptor.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/ThirdPerson/Maps/_GENERATED/LINOA/Box_4BFFAABD.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6P/R3R37G2Y3QDS88XUN1PMDY.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/AI_Advanced/BP_RangedEnemySpawn.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Hunt_for_blood/Content/MetaHumans/Fausto/BP_Fausto.uasset",
