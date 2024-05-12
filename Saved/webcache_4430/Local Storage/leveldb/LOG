@@ -1,3 +1,6 @@
-2024/04/16-11:05:53.055 c20 Reusing MANIFEST C:/Users/rmsl8/Documents/GitHub/Hunt_for_blood/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/16-11:05:53.079 c20 Recovering log #7
-2024/04/16-11:05:53.095 c20 Reusing old log C:/Users/rmsl8/Documents/GitHub/Hunt_for_blood/Saved/webcache_4430\Local Storage\leveldb/000007.log 
+2024/05/11-19:30:50.805 8284 Reusing MANIFEST C:/Users/rmsl8/Documents/GitHub/Hunt_for_blood/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/11-19:30:50.814 8284 Recovering log #7
+2024/05/11-19:30:50.815 8284 Reusing old log C:/Users/rmsl8/Documents/GitHub/Hunt_for_blood/Saved/webcache_4430\Local Storage\leveldb/000007.log 
+2024/05/11-23:55:41.447 39bc Level-0 table #10: started
+2024/05/11-23:55:41.465 39bc Level-0 table #10: 14738 bytes OK
+2024/05/11-23:55:41.481 39bc Delete type=0 #7
