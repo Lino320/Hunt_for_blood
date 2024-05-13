@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/Mei/Documents/GitHub/Hunt_for_blood/Content/Megascans/Surfaces/Marble_Floor_tigkagsfw/T_Marble_Floor_tigkagsfw_2K_Mat1.uasset",
 				"C:/Users/Mei/Documents/GitHub/Hunt_for_blood/Content/Maps/Lvl01.umap",
 				"C:/Users/Mei/Documents/GitHub/Hunt_for_blood/Content/Megascans/Surfaces/Crema_Marfi_Marble_wjmkfbnl/MI_Crema_Marfi_Marble_wjmkfbnl_2K1.uasset",
@@ -24,6 +25,8 @@
 				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/ThirdPerson/Maps/Test_for_mirrors.umap",
 				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/Objects/Interruptor_2.uasset",
 				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/ThirdPerson/music/ambientacion.uasset",
+=======
+>>>>>>> Stashed changes
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/AI_Advanced/Objects/Palanca.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/AI_Advanced/Objects/baldosa_puzle.uasset",
@@ -79,6 +82,24 @@
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/Zona_Colocacion.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/Interactuable.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/Interactuable_2.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/Megascans/3D_Assets/Wooden_Table_vl0jbem/S_Wooden_Table_vl0jbem_lod3_Var1.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/Zona_Colocacion_2.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/Interactuable_4.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/Zona_Colocacion_3.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/Zona_Colocacion_4.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/MetaHumans/Common/Female/Medium/NormalWeight/Body/metahuman_base_skel.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/MetaHumans/Common/Male/Medium/NormalWeight/Shoes/Boots/m_med_nrw_shs_boots.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/Models/Props/Palanca/BP_Palanca.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/AI_Advanced/Objects/Light_Beam.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/RP/8J86A0RGP4LN6E6PC0SH6O.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/V8/BXHI3RMLH561PDPYUE963T.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0H/HHK6S6TWRFPD0CCHFC13KW.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QY/FBJ41402B6Z8DNUHZA6BPF.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/Objects/Objeto_Interactuable.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/ThirdPerson/Maps/Lvl01.umap",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/ThirdPerson/Maps/Test_for_mirrors.umap",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/AI_Advanced/Objects/Interruptor_2.uasset",
+				"C:/Users/LINO A/Desktop/Hunt_for_blood/Content/ThirdPerson/music/ambientacion.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/music/Abrir_puerta.uasset"
 			]
 		}
