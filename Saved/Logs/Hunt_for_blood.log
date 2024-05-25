@@ -6243,3 +6243,6 @@ UnknownFunction []
 [2024.05.25-14.46.15:548][830]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2024.05.25-14.46.15:548][830]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.05.25-14.46.15:548][830]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.05.25-14.46.19:454][830]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.05.25-14.46.19:542][830]LogExit: Exiting.
+[2024.05.25-14.46.19:661][830]Log file closed, 05/25/24 16:46:19
