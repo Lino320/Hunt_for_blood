@@ -10,7 +10,13 @@
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/Maps/Lvl01.umap",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/PuzlePrueba_2.uasset",
 				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/Models/Props/Puerta_puzle.uasset",
-				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/Models/Props/Palanca/BP_Palanca.uasset"
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/Models/Props/Palanca/BP_Palanca.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/UI_HuntForBlood.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/BP_Stadistics.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/Tecla_H.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/Tecla_R.uasset",
+				"C:/Users/Boyga/Documents/GitHub/Hunt_for_blood/Content/ThirdPerson/Blueprints/Equipamiento/Tecla_E.uasset"
 			]
 		}
 	]
