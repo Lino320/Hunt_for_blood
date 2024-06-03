@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\boyga\\documents\\github\\hunt_for_blood\\intermediate\\build\\win64\\unrealgame\\inc\\hunt_for_blood\\uht\\hunt_for_blood.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\boyga\\documents\\github\\hunt_for_blood\\intermediate\\build\\win64\\x64\\hunt_for_blood\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\boyga\\documents\\github\\hunt_for_blood\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\hunt_for_blood\\definitions.hunt_for_blood.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
